@@ -9,18 +9,21 @@ This application is developed under Developer Student Club leading by [Akshay Na
 ### Screenshots
 
 <p align="center">
-<img src="Gym_Buddy2/Screenshots/one.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/two.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/three.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/four.png" height = "400" width="200" margin="10">
+<img src="Gym_Buddy2/Screenshots/one.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/two.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/three.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/four.jpeg" height = "400" width="200" margin="10">
 </p>
 
 <p align="center">
-<img src="Gym_Buddy2/Screenshots/five.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/six.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/seven.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/eight.png" height = "400" width="200" margin="10">
+<img src="Gym_Buddy2/Screenshots/five.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/six.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/seven.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/eight.jpeg" height = "400" width="200" margin="10">
 </p>
 
 <p align="center">
-<img src="Gym_Buddy2/Screenshots/nine.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/ten.png" height = "400" width="200" margin="10">
-    <img src="Gym_Buddy2/Screenshots/eleven.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/twelve.png" height = "400" width="200" margin="10">
+<img src="Gym_Buddy2/Screenshots/nine.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/ten.jpeg" height = "400" width="200" margin="10">
+    <img src="Gym_Buddy2/Screenshots/eleven.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/twelve.jpeg" height = "400" width="200" margin="10">
 </p>
 
 <p align="center">
- <img src="Gym_Buddy2/Screenshots/therteen.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/forteen.png" height = "400" width="200" margin="10">   
+ <img src="Gym_Buddy2/Screenshots/therteen.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/fourteen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/fifteen.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/sixsteen.png" height = "400" width="200" margin="10">   
+</p>
+<p align="center">
+ <img src="Gym_Buddy2/Screenshots/seventeen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/eightteen.jpg" height = "400" width="200" margin="10">
 </p>
