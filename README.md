@@ -13,7 +13,7 @@ This application is developed under Developer Student Club leading by [Akshay Na
 </p>
 
 <p align="center">
-<img src="Gym_Buddy2/Screenshots/five.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/six.png" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/seven.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/eight.jpeg" height = "400" width="200" margin="10">
+<img src="Gym_Buddy2/Screenshots/five.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/six.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/seven.jpeg" height = "400" width="200" margin="10"> <img src="Gym_Buddy2/Screenshots/eight.jpeg" height = "400" width="200" margin="10">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ This application is developed under Developer Student Club leading by [Akshay Na
 </p>
 
 <p align="center">
- <img src="Gym_Buddy2/Screenshots/therteen.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/fourteen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/fifteen.png" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/sixsteen.png" height = "400" width="200" margin="10">   
+ <img src="Gym_Buddy2/Screenshots/therteen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/fourteen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/fifteen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/sixteen.jpeg" height = "400" width="200" margin="10">   
 </p>
 <p align="center">
  <img src="Gym_Buddy2/Screenshots/seventeen.jpeg" height = "400" width="200" margin="10"><img src="Gym_Buddy2/Screenshots/eightteen.jpg" height = "400" width="200" margin="10">
